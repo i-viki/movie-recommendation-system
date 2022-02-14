@@ -25,3 +25,9 @@ data/*.pkl
 
 # Keep data directory
 !data/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pkl
+*.csv
