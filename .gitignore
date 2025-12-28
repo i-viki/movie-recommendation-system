@@ -22,3 +22,6 @@ Thumbs.db
 
 # Model artifacts
 data/*.pkl
+
+# Keep data directory
+!data/.gitkeep
